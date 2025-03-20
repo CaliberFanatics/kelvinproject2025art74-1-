@@ -1,0 +1,21 @@
+
+/* table, th, td {
+	border:1px solid black;
+	text-align: center;
+}
+
+table, th, td {
+/*	border: 1px solid black;*/
+/*	text-align: center;*/
+/*}*/
+
+body { 
+  background-image: url("5P.gif");
+  color: blue;
+/*	background-repeat: repeat;*/
+  }
+
+
+h1 {
+  color: purple;
+}

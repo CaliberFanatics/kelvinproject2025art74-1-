@@ -1,0 +1,21 @@
+
+/* table, th, td {
+	border:1px solid black;
+	text-align: center;
+}
+
+table, th, td {
+/*	border: 1px solid black;*/
+/*	text-align: center;*/
+/*}*/
+
+body { 
+  background-image: url("InvSwinging.gif");
+  color: mediumaquamarine;
+/*	background-repeat: repeat;*/
+  }
+
+
+h1 {
+  color: orangered;
+}

@@ -1,0 +1,21 @@
+
+/* table, th, td {
+	border:1px solid black;
+	text-align: center;
+}
+
+table, th, td {
+/*	border: 1px solid black;*/
+/*	text-align: center;*/
+/*}*/
+
+body { 
+  background-image: url("scugemote.gif");
+  color: purple;
+/*	background-repeat: repeat;*/
+  }
+
+
+h1 {
+  color: orange;
+}
